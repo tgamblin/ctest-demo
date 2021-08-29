@@ -1,5 +1,5 @@
 project(muster)
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.8.12)
 
 add_executable(test_demo test.c)
 
